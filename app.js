@@ -45,7 +45,7 @@ const app = {
             name: '7 Rings',
             singer: 'Ariana Grande',
             path: './assets/music/7Rings.mp3',
-            image: './assets/img/7Ring_ArianaGrande.jpg'
+            image: './assets/img/7Rings_ArianaGrande.jpg'
         },
         {
             name: 'Bang Bang',
